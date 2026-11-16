@@ -4,11 +4,10 @@
 
 <a href="mailto:ssssliug@foxmail.com"><img src="https://img.shields.io/badge/Email-ssssliug%40foxmail.com-1a5fb4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://liu-ganghao.github.io/"><img src="https://img.shields.io/badge/Homepage-liu--ganghao.github.io-1a5fb4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage" /></a>
-<a href="https://github.com/liu-ganghao"><img src="https://img.shields.io/badge/GitHub-liu--ganghao-1a5fb4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/>
 
-**Ph.D. Candidate in Computer Science** · East China University of Science and Technology · Shanghai
+**Ph.D. Candidate in Computer Science** · East China University of Science and Technology
 
 `Large Language Models` · `PEFT` · `Multimodal LLMs` · `Embodied AI / VLA`
 
@@ -16,27 +15,17 @@
 
 ---
 
-## 👋 About Me
+## 🔬 Research
 
-- 🎓 **Ph.D. Candidate (2023 – 2027)** in Computer Science and Technology at East China University of Science and Technology, advised by Prof. [Wang Zhe (王喆)](https://cise.ecust.edu.cn/2026/0617/c16487a191326/page.htm).
-- 🔬 **Research.** Large language models (LLMs) and multimodal LLMs — parameter-efficient fine-tuning (PEFT), training & inference optimization, knowledge editing, and Vision-Language-Action (VLA) models for embodied AI (simulation data generation and sim-to-real transfer).
-- 🛠️ **Engineering.** End-to-end LLM applications — model training, GRPO reinforcement learning, agent workflows, RAG systems, inference optimization, and production deployment.
+I study how to make large language models **cheaper to adapt, more efficient to serve, and more reliable on multimodal and embodied tasks** — and I enjoy turning these ideas into working systems.
 
-## 🔬 Research Interests
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Parameter--Efficient%20Fine--Tuning-1a5fb4?style=flat-square" alt="PEFT" />
-<img src="https://img.shields.io/badge/Mixture--of--Experts-1a5fb4?style=flat-square" alt="MoE" />
-<img src="https://img.shields.io/badge/Multimodal%20LLMs-1a5fb4?style=flat-square" alt="MLLMs" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning%20%C2%B7%20GRPO-1a5fb4?style=flat-square" alt="GRPO" />
-<img src="https://img.shields.io/badge/LLM%20Inference%20Optimization-1a5fb4?style=flat-square" alt="Inference" />
-<img src="https://img.shields.io/badge/LLM%20Knowledge%20Editing-1a5fb4?style=flat-square" alt="Editing" />
-<img src="https://img.shields.io/badge/Embodied%20AI%20%C2%B7%20Vision--Language--Action-1a5fb4?style=flat-square" alt="VLA" />
-<img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-1a5fb4?style=flat-square" alt="RAG" />
-<img src="https://img.shields.io/badge/Agents%20%26%20Workflows-1a5fb4?style=flat-square" alt="Agents" />
-
-</div>
+| Direction | What I work on |
+| :-- | :-- |
+| **Efficient LLM adaptation** | Parameter-efficient fine-tuning, split-path experts / MoE-style training and inference |
+| **Multimodal LLMs** | Training-free visual evidence fusion, hallucination mitigation in medical MLLMs |
+| **Knowledge editing** | Stable, controllable, and lifelong model updates without retraining |
+| **Embodied AI · VLA** | Vision-Language-Action training, simulation data generation, zero-shot sim-to-real transfer |
+| **LLM applications** | GRPO reinforcement learning, agent workflows, retrieval-augmented generation (RAG) |
 
 ## 📢 News
 
@@ -78,22 +67,6 @@
 - **Contrastive Visual Enhancement: Training-Free Visual Evidence Fusion for Hallucination Mitigation in Medical MLLMs** — `Pattern Recognition` (under review)
 
 </details>
-
-## 🎓 Education
-
-**East China University of Science and Technology** · Shanghai, China  
-Ph.D. in Computer Science and Technology · Sep 2023 – Jun 2027  
-Advisor: Prof. Wang Zhe (王喆)
-
-🏆 **National Scholarship** (国家奖学金)
-
-## 🧰 Open-Source Projects
-
-| Repository | Description |
-| :-- | :-- |
-| [claude-skill-docx-cn](https://github.com/liu-ganghao/claude-skill-docx-cn) | Claude Code skill — Chinese-first `.docx` generation with best-value-highlighted result tables and a catalog of Word pitfalls |
-| [claude-skill-pptx-cn](https://github.com/liu-ganghao/claude-skill-pptx-cn) | Claude Code skill — Chinese-first `.pptx` generation with an academic palette, chart scaffolds, and font pitfalls |
-| [qq-claude-gateway](https://github.com/liu-ganghao/qq-claude-gateway) | QQ private-chat → local Claude Code gateway, with a zero-dependency tray supervisor |
 
 ## 📊 GitHub at a Glance
 
