@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a5fb4&height=190&section=header&text=Theo%20Liu&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Ganghao%20Liu%20%C2%B7%20%E5%88%98%E6%B8%AF%E6%98%8A&descAlignY=70&descSize=18" alt="header" />
-
-<a href="mailto:ssssliug@foxmail.com"><img src="https://img.shields.io/badge/Email-ssssliug%40foxmail.com-1a5fb4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://liu-ganghao.github.io/"><img src="https://img.shields.io/badge/Homepage-liu--ganghao.github.io-1a5fb4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage" /></a>
-
-<br/>
+# Theo Liu <sub>刘港昊</sub>
 
 **Ph.D. Candidate in Computer Science** · East China University of Science and Technology
 
 `Large Language Models` · `PEFT` · `Multimodal LLMs` · `Embodied AI / VLA`
+
+<br/>
+
+<a href="mailto:ssssliug@foxmail.com"><img src="https://img.shields.io/badge/Email-ssssliug%40foxmail.com-1a5fb4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://liu-ganghao.github.io/"><img src="https://img.shields.io/badge/Homepage-liu--ganghao.github.io-1a5fb4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage" /></a>
 
 </div>
 
@@ -72,8 +72,9 @@ I study how to make large language models **cheaper to adapt, more efficient to 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=liu-ganghao&show_icons=true&hide_border=true&rank_icon=github&title_color=1a5fb4&icon_color=1a5fb4&text_color=3a4150&bg_color=ffffff" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liu-ganghao&layout=compact&hide_border=true&title_color=1a5fb4&text_color=3a4150&bg_color=ffffff" alt="Top languages" />
+<img width="90%" src="https://ghchart.rshah.org/1a5fb4/liu-ganghao" alt="Contribution chart" />
+
+<img src="https://streak-stats.demolab.com?user=liu-ganghao&hide_border=true&ring=1a5fb4&fire=1a5fb4&currStreakLabel=1a5fb4&sideLabels=3a4150&dates=717a89&currStreakNum=1a5fb4&sideNums=3a4150" alt="Streak stats" />
 
 </div>
 
