@@ -64,16 +64,6 @@ I study how to make large language models **cheaper to adapt, more efficient to 
 
 </details>
 
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img width="90%" src="https://ghchart.rshah.org/1a5fb4/liu-ganghao" alt="Contribution chart" />
-
-<img src="https://streak-stats.demolab.com?user=liu-ganghao&hide_border=true&ring=1a5fb4&fire=1a5fb4&currStreakLabel=1a5fb4&sideLabels=3a4150&dates=717a89&currStreakNum=1a5fb4&sideNums=3a4150" alt="Streak stats" />
-
-</div>
-
 ---
 
 <div align="center">
