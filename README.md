@@ -1,10 +1,6 @@
 <div align="center">
 
-# Theo Liu <sub>刘港昊</sub>
-
-**Ph.D. Candidate in Computer Science** · East China University of Science and Technology
-
-`Large Language Models` · `PEFT` · `Multimodal LLMs` · `Embodied AI / VLA`
+<img width="100%" src="assets/banner.svg" alt="Theo Liu — Ph.D. Candidate in Computer Science, East China University of Science and Technology" />
 
 <br/>
 
